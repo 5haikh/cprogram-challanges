@@ -7,4 +7,5 @@ void main(){
 	scanf("%d", &b);
 	c = a + b;
 	printf("\nthe sum of %d and %d is %d", a, b, c);
+	printf("\nthis is for test");
 }
